@@ -69,7 +69,8 @@ http://localhost:3000
 
 ## ✨ Screenshots
 
-> *(<img width="1824" height="1066" alt="image" src="https://github.com/user-attachments/assets/6ac78bb3-7897-4ee1-b504-2f4db4a2e111" />
+> *(<img width="1736" height="1060" alt="image" src="https://github.com/user-attachments/assets/04d269f8-84f2-4915-900a-ecf8eb0f1651" />
+ />
 )*
 
 ## 👨‍💻 Author
