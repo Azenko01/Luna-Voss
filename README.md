@@ -1,6 +1,6 @@
 # 🌌 Ethereal Gallery
 
-[🔗 View Live Site](https://luna-voss.netlify.app/)
+[🔗 View Live Site](https://lunaa-voss.netlify.app/)
 [📦 GitHub Repository](https://github.com/Azenko01/Luna-Voss)
 
 ## Description
